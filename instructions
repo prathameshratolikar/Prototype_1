@@ -1,0 +1,6 @@
+1) Download the whole App3 folder.
+2) Open visual Studio ans select open project.
+3) unzip the downloaded App3 folder.
+4) then follow this path App3->App3.
+5) In that folder search App3.csproj file and open it int visual studio.
+6) After opening this file in visual studio it will ask for permission for allowing third party apps to open in visual studio allow the same.

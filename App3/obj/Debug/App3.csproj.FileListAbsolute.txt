@@ -161,5 +161,3 @@ C:\Users\admin\Desktop\App3\App3\obj\Debug\linksrc\System.pdb
 C:\Users\admin\Desktop\App3\App3\obj\Debug\linksrc\System.Runtime.Serialization.pdb
 C:\Users\admin\Desktop\App3\App3\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
 C:\Users\admin\Desktop\App3\App3\obj\Debug\linksrc\System.Xml.pdb
-C:\Users\admin\Desktop\App3\App3\bin\Debug\App3.dll
-C:\Users\admin\Desktop\App3\App3\obj\Debug\linksrc\App3.dll.mdb
